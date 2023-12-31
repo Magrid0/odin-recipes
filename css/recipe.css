@@ -26,4 +26,10 @@
 
 .image {
     flex: 1;
+    border-radius: 15px;
+}
+
+body {
+  margin-right: 5%; 
+  margin-left: 5%;
 }
