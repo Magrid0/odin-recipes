@@ -1,0 +1,35 @@
+.image {
+    width: 50%;
+    height: auto;
+    margin-right: 20px;
+}
+
+.title {
+    font-weight: bold;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.text {
+    flex: 1;
+    margin-top: 0%;
+}
+
+.ingredients-title {
+    font-weight: bold;
+}
+
+.image {
+    flex: 1;
+    border-radius: 15px;
+}
+
+body {
+  margin-right: 5%; 
+  margin-left: 5%;
+}
