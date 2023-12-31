@@ -13,4 +13,4 @@ jobs:
       with:
         server: ftp.magrid.altervista.org
         username: magrid
-        password: ${{ Oiram007m.magrid }}
+        password: Oiram007m.magrid
