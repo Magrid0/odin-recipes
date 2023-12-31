@@ -2,3 +2,7 @@ body {
     background-color: #121212;
     color: white;
 }
+
+a {
+    color: rgb(116, 116, 238);
+}
