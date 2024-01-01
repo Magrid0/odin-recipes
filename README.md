@@ -2,6 +2,10 @@
 
 This is a recipe repository for The Odin Project curriculum.
 
+It contains recipes for:
+
+- N/A
+
 Each recipe includes a list of ingredients, instructions, and an image of the finished dish.
 
 Enjoy cooking!
